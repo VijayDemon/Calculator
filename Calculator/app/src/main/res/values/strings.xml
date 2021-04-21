@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="b0">0</string>
+    <string name="b_m">-</string>
+    <string name="b_p">+</string>
+    <string name="b_ml">*</string>
+    <string name="b_d">/</string>
+    <string name="b_dt">.</string>
+    <string name="b_c">C</string>
+    <string name="b_del">D</string>
+    <string name="b_s">+/-</string>
+    <string name="b_e">+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
